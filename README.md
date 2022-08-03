@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerbinFilip
-- 👀 I’m interested in programming mobile apps
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in programming WEB API
+- 🌱 I’m currently learning Spring Boot
 
 <!---
 DerbinFilip/DerbinFilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
